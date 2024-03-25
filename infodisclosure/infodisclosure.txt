@@ -1,3 +1,7 @@
-Briefly explain the vulnerability and why the secure version prevents the vulnerability.
-Which CIA property does tampering violate?
-What additional security mechanisms can you incorporate?
+- Briefly explain the vulnerability and why the secure version prevents the vulnerability.
+who get to see the sensitive information, for exmaple when storing the information.
+lead to leak of sensitive information
+- Which CIA property does tampering violate?
+Availability
+- What additional security mechanisms can you incorporate?
+add security for accessing
